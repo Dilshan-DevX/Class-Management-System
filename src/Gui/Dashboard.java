@@ -567,7 +567,7 @@ public class Dashboard extends javax.swing.JFrame {
 
                     // Sender's email credentials
                     
-                    final String senderEmail = "";  // Change to your email
+                    final String senderEmail = "@gmail.com";  // Change to your email
                     final String senderPassword = "";  // Use an App Password if using Gmail
                   
                     Properties properties = new Properties();
