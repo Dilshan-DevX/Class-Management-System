@@ -519,8 +519,8 @@ public class Dashboard extends javax.swing.JFrame {
 //        }
 //
 //        // Sender's email credentials
-//        final String senderEmail = "tharindu2003wxyz@gmail.com";
-//        final String senderPassword = "hcfmihcnrsrdpsma";
+//        final String senderEmail = "";
+//        final String senderPassword = "";
 //
 //        // Recipient email
 ////        String recipientEmail = jTextField2.getText();
@@ -567,8 +567,8 @@ public class Dashboard extends javax.swing.JFrame {
 
                     // Sender's email credentials
                     
-                    final String senderEmail = "tharindu2003wxyz@gmail.com";  // Change to your email
-                    final String senderPassword = "zenpougywmvdwgcr";  // Use an App Password if using Gmail
+                    final String senderEmail = "@gmail.com";  // Change to your email
+                    final String senderPassword = "";  // Use an App Password if using Gmail
                   
                     Properties properties = new Properties();
                     properties.put("mail.smtp.host", "smtp.gmail.com");
